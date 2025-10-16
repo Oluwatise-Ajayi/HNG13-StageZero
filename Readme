@@ -70,7 +70,7 @@ To start the server, run the following command. The server will launch on http:/
 
 Bash
 
-npm run dev
+npm start
 # or
 node index.js
 Tech Stack 🛠️
